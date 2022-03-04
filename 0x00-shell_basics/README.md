@@ -1,1 +1,1 @@
-Script that Display current directory contents, including hidden files (starting with .). Use the long format.
+Scrip that Display current directory contents

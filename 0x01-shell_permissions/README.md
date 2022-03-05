@@ -1,1 +1,1 @@
-script that sets the permission to the file hello
+The file hello will be in the working directory
